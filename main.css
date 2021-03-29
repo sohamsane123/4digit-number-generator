@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background: #3BB9FF;
+}
+
+h1 {
+  font-family: 'Dela Gothic One', cursive;
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+}
+
+#text {
+ text-shadow: 2px 2px black;
+
+}
+
+.centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
